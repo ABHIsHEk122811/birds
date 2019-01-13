@@ -106,7 +106,7 @@ class _State extends State<MyApp>{
            child: new Center(
               child: new Column(
                  children: <Widget>[
-                    new Text('HELLO')
+                    new Text('HELLO WORLD')
                  ],
               ),
            ),
