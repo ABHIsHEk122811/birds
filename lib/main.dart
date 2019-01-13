@@ -7,7 +7,7 @@ runApp(new MaterialApp(
    home: new MyApp(),
   debugShowCheckedModeBanner: false,
 
-));
+)); 
 }
 class MyApp extends StatefulWidget{
 @override
