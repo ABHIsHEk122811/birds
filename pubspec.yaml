@@ -15,7 +15,8 @@ environment:
 dependencies:
   flutter_auth_buttons: ^0.3.1
   firebase_auth: ^0.6.6
-
+  google_sign_in: ^3.2.4
+  carousel_pro: ^0.0.13
 
   flutter:
     sdk: flutter
@@ -70,3 +71,24 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
+assets:
+ -products/a1.jpg
+ -products/a2.jpg
+ -products/a3.jpg
+ -products/a4.jpg
+ -products/a5.jpg
+ -products/a6.jpg
+ -products/a7.jpg
+ -products/a8.jpg
+ -products/a9.jpg
+ -products/blazer1.jpeg
+ -products/blazer2.jpeg
+ -products/dress1.jpeg
+ -products/dress2.jpeg
+ -products/hills1.jpeg
+ -products/hills2.jpeg
+ -products/pants1.jpg
+ -products/pants2.jpeg
+ -products/shoe1.jpg
+ -products/skt.jpeg
+ -products/skt2.jpeg
